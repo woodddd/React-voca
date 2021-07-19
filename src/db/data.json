@@ -15,6 +15,18 @@
     {
       "day": 4,
       "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
     }
   ],
   "words": [
@@ -23,28 +35,7 @@
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": false
-    },
-    {
-      "id": 3,
-      "day": 2,
-      "eng": "car",
-      "kor": "자동차",
-      "isDone": false
-    },
-    {
-      "id": 5,
-      "day": 3,
-      "eng": "school",
-      "kor": "학교",
-      "isDone": false
-    },
-    {
-      "id": 6,
-      "day": 3,
-      "eng": "pencil",
-      "kor": "연필",
-      "isDone": false
+      "isDone": true
     },
     {
       "day": "3",
@@ -52,20 +43,6 @@
       "kor": "창문",
       "isDone": false,
       "id": 7
-    },
-    {
-      "day": "3",
-      "eng": "house",
-      "kor": "집",
-      "isDone": false,
-      "id": 8
-    },
-    {
-      "day": "2",
-      "eng": "mouse",
-      "kor": "쥐",
-      "isDone": false,
-      "id": 9
     },
     {
       "day": "4",
@@ -83,10 +60,129 @@
     },
     {
       "day": "3",
-      "eng": "apple",
-      "kor": "사과",
+      "eng": "zzz",
+      "kor": "ㅋㅋㅋ",
       "isDone": false,
       "id": 12
+    },
+    {
+      "day": "3",
+      "eng": "zzz",
+      "kor": "ㅋㅋㅋ",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "2",
+      "eng": "wooseok",
+      "kor": "우석",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "1",
+      "eng": "money",
+      "kor": "돈",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "2",
+      "eng": "hi",
+      "kor": "안녕",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "1",
+      "eng": "http://localhost:3000/",
+      "kor": "로컬호스트",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "6",
+      "eng": "nihao",
+      "kor": "안녕",
+      "isDone": true,
+      "id": 18
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 19
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 20
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 21
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 22
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 23
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 24
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 25
+    },
+    {
+      "day": "1",
+      "eng": "",
+      "kor": "",
+      "isDone": false,
+      "id": 26
+    },
+    {
+      "day": "3",
+      "eng": "ㅁ",
+      "kor": "ㅠㅠ",
+      "isDone": false,
+      "id": 27
+    },
+    {
+      "day": "7",
+      "eng": "gg",
+      "kor": "ㅎㅎ~",
+      "isDone": false,
+      "id": 28
+    },
+    {
+      "day": "7",
+      "eng": "bb",
+      "kor": "ㅠㅠ",
+      "isDone": false,
+      "id": 29
     }
   ]
 }

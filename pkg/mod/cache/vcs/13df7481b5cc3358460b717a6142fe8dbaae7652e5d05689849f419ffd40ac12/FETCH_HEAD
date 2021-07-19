@@ -1,0 +1,5 @@
+dbbbf8a3c6ea13deb539e0b1e6f56929c6bc5403	not-for-merge	branch 'internal-branch.go1.16-vendor' of https://go.googlesource.com/mod
+0f08993efd8a8ec67e75bcccf86b0e1569b0ab0a	not-for-merge	branch 'internal-branch.go1.17-vendor' of https://go.googlesource.com/mod
+0f08993efd8a8ec67e75bcccf86b0e1569b0ab0a	not-for-merge	branch 'master' of https://go.googlesource.com/mod
+ed3ec21bb8e252814c380df79a80f366440ddb2d	not-for-merge	branch 'release-branch.go1.14' of https://go.googlesource.com/mod
+859b3ef565e237f9f1a0fb6b55385c497545680d	not-for-merge	branch 'release-branch.go1.15' of https://go.googlesource.com/mod
